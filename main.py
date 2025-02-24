@@ -93,3 +93,5 @@ Label(frame4, text="Data Operations", bg=frame_color, fg="#ff79c6", font=("Arial
     .place(x=20, y=5)
 
 root.mainloop()
+
+#By Adithya Mittapally
